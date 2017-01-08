@@ -3,6 +3,13 @@
 - [Forbes - Cloud Roundup 2015](http://www.forbes.com/sites/louiscolumbus/2016/03/13/roundup-of-cloud-computing-forecasts-and-market-estimates-2016/#2974ad6c74b0)
 - http://www.ey.com/Publication/vwLUAssets/The_digitisation_of_everything_-_How_organisations_must_adapt_to_changing_consumer_behaviour/$FILE/EY_Digitisation_of_everything.pdf
 - http://sloanreview.mit.edu/projects/strategy-drives-digital-transformation/
+- https://www.telstraglobal.com/images/Disruption,%20digital%20transformation%20and%20effective%20technology%20strategy%20report.pdf
+
+## Onlinge / Digital "distruptive" services
+### Australia
+- Deloitte: http://deloitteprivateconnect.com
+- PwC: http://next.pwc.com.au - basically the response to Deloitte's online platform. Both targeted at private clients
+- Airtax: GST for Uber drivers
 
 
 People funding all these cloud companies:
