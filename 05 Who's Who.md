@@ -30,3 +30,4 @@ Rackspace, Bulletproof,
 - Google cloud people
 - People on social media: http://thenextweb.com/socialmedia/2011/04/12/the-25-most-influential-people-tweeting-about-cloud-computing/
 - Business insider - [39 important people in cloud](http://www.businessinsider.com.au/most-important-people-in-cloud-computing-2014-4?op=1&r=US&IR=T#no-27-microsofts-mark-russinovich-building-a-smarter-more-automated-cloud-13)
+- [Joe Weinman](http://www.joeweinman.com/Default.htm): Author of several Cloud books including Cloudonomics. Writes about cloud and digital strategy / transformation
