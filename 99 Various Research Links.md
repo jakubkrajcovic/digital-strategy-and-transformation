@@ -7,6 +7,7 @@
 
 People funding all these cloud companies:
 - https://www.bvp.com
+- [Bessemer's 10 cloud computing laws](http://www.slideshare.net/ByronDeeter/bessemers-10-laws-of-cloud-computing?qid=806bb7a9-d4dc-4d05-8f41-3c7ef92aa81f&v=&b=&from_search=10)
 
 
 Vendor reports:
