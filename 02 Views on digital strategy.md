@@ -2,8 +2,18 @@
 
 ## Strategy consultancies
 ### BCG
+- http://www.bcg.com/expertise/capabilities/technology-digital/digital.aspx - **BCG's core digital strategy framework**. This is what their thoughts revolve around when BCG talks about digital transformation and strategy
+- BCG Digital Ventures - business incubator
+- https://www.bcgperspectives.com/content/articles/transformation-large-scale-change-technology-business-transformation-how-jump-start-digital-transformation/ - From BCG perspectives
+- I should also list all the relevant perspectives from the BCG Perspectives book that talk about "DevOps", OODA, etc - that's all relevant
+- https://www.bcgperspectives.com/content/articles/digital_economy_technology_strategy_digital_imperative/
+- BCG's E-Intensity Index: https://www.bcgperspectives.com/content/interactive/telecommunications_media_entertainment_bcg_e_intensity_index/
 
 ### McKinsey
+
+## Tech Consultancies
+### Accenture
+- https://www.accenture.com/us-en/insight-digital-ecosystem-disruption
 
 ## Vendors
 ### Microsoft
