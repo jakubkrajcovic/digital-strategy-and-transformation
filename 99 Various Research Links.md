@@ -24,11 +24,13 @@ Vendor reports:
 - [Architecting the Cloud](https://www.amazon.com/Architecting-Cloud-Decisions-Computing-Service/dp/1118617614/ref=sr_1_1?s=books&ie=UTF8&qid=1406218019&sr=1-1&keywords=architecting+the+cloud): Book from the CTO and one of the founders of **Cloud Technology Partners.**
 - [Cloudonomics](https://www.amazon.com/Cloudonomics-Website-Business-Value-Computing-ebook/dp/B008IU9JVU): Business book, economics of cloud computing
 - [Digital Disciplines](https://www.amazon.com/Digital-Disciplines-Attaining-Leadership-Internet-ebook/dp/B012KGIBJI/ref=pd_sim_351_1?_encoding=UTF8&psc=1&refRID=RMW7WD1R35D42V6ZBEFA): seems like a useful resource for all things digital
+
 ### DevOps / SRE Books
 - [The Phoenix Project]()
 - [DevOps Handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations-ebook/dp/B01M9ASFQ3/ref=pd_sim_351_4?_encoding=UTF8&psc=1&refRID=RMW7WD1R35D42V6ZBEFA)
 - [Web Operations]()
 - [Site Reliability Engineering](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations-ebook/dp/B01M9ASFQ3/ref=pd_sim_351_4?_encoding=UTF8&psc=1&refRID=RMW7WD1R35D42V6ZBEFA)
+
 ### Digital Transformation books
 - [Digital Transformation book](http://www.digitaltransformationbook.com): Seems to have been written by a consultancy that specializes in digital transformation of businesses
 - [Leading Digital](https://www.amazon.com/Leading-Digital-Technology-Business-Transformation/dp/1625272472): Digital transformation 101, guide for beginners. Business book written by CapGemini
